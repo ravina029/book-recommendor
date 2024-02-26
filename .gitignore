@@ -1,1 +1,6 @@
 /bookvenv
+template
+application.py
+Books.pkl
+model
+book recommendor-workspace.code-workspace

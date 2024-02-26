@@ -2,3 +2,9 @@ pandas
 numpy
 seaborn
 matplotlib
+scipy
+scikit-learn
+
+streamlit
+#python==3.8.18
+-e .
