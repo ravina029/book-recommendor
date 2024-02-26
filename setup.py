@@ -28,7 +28,7 @@ setup(
     version='0.0.1',
     author='ravina',
     author_email='vermaravina029@gmail.com',
-    description='small python package for ml app',
+    description='small python package for book recommender system',
     long_description=long_description,
     long_description_content='text/markdown',
     url=f'https://github.com/ravina029/book-recommendor',
