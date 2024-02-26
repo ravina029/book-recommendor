@@ -2,36 +2,16 @@
 
 
 
-# WhatsApp Chat Analysis and Sentiment Analysis
 
-## Introduction
 
-This project focuses on extracting and analyzing WhatsApp chat data, providing insights into the chat trends, and performing sentiment analysis.
-
-## Features
-
-1. **Data Extraction:**
-   - Extract chat data from WhatsApp group or 1-1 conversations.
-
-2. **Data Cleaning:**
-   - Perform data cleaning steps to ensure accurate and meaningful analysis.
-
-3. **Weekly and Monthly Trends:**
-   - Analyze and visualize the weekly and monthly chat trends.
-
-4. **Sentiment Analysis:**
-   - Utilize TextBlob for sentiment analysis of the chat messages.
-  
-# Observations
-## video link: https://www.youtube.com/watch?v=MNuo0yK-mi0&t=29s
-
+# Performance with streamlit
+## video link:https://youtu.be/sNNPdjwtsyc?si=gfsHSQoA-2t8lerJ
 
 
 #Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/whatsapp-chat-analysis.git
-   cd whatsapp-chat-analysis
-   pip install -r requirements.txt
+   git clone (https://github.com/ravina029/book-recommendor)
+   
 
 
 # Deployed Streamlit app on EC2 instance
