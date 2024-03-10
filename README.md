@@ -15,7 +15,7 @@ This project presents a Book Recommender System implemented using a machine lear
 ## Performance with Streamlit
 [Book Recommendor Demo Video](https://youtu.be/sNNPdjwtsyc?si=gfsHSQoA-2t8lerJ)
 
-[Book Recommendation Application demo screenshot](recommended.png)
+![Book Recommendation Application demo screenshot](recommended.png)
 
 
 # How to use
