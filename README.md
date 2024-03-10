@@ -1,17 +1,31 @@
-# this is a simple book recommender system 
+# Book Recommender System using ML Algorithm
+
+## Overview
+This project presents a Book Recommender System implemented using a machine learning algorithm. The recommendation model suggests books based on user preferences and book similarity. The web application is developed using Streamlit for a user-friendly experience.
 
 
+# Technologies Used:
+1. Python
+2. sklearn
+3. Streamlit
+4. AWS EC2
+5. GitHub
 
 
+## Performance with Streamlit
+[Book Recommendor Demo Video](https://youtu.be/sNNPdjwtsyc?si=gfsHSQoA-2t8lerJ)
 
-# Performance with streamlit
-## video link:https://youtu.be/sNNPdjwtsyc?si=gfsHSQoA-2t8lerJ
+[Book Recommendation Application demo screenshot](recommended.png)
 
 
-#Clone the repository:
+# How to use
+1. Clone the repository:
    ```bash
    git clone (https://github.com/ravina029/book-recommendor)
-   
+
+2. runn the command 
+   streamlit run app.py
+ 
 
 
 # Deployed Streamlit app on EC2 instance
