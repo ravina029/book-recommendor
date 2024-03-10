@@ -23,7 +23,7 @@ This project presents a Book Recommender System implemented using a machine lear
    ```bash
    git clone (https://github.com/ravina029/book-recommendor)
 
-2. runn the command 
+2. run the command 
    streamlit run app.py
  
 
